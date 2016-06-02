@@ -23,7 +23,7 @@ targets -> Architectures 下面的Valid Architectures 添加上 arm64
 
 解决方案   打开报错的文件，增加头文件
 
-#import <Foundation/Foundation.h>
+// #import <Foundation/Foundation.h>
 
 基本上支付宝中的demo 里面的问题一般都会得到解决。然后 看着demo 跟实际的项目结合一下就ok 了
 正式开始  支付宝教程：
