@@ -65,4 +65,4 @@ Info.plist -> NSAppTransportSecurity    添加 NSAllowsArbitraryLoads   Bool  tr
 
 添加Scheme
 为了支付完之后跳回App
-Info  -> URL Types  -> + -> URL Schemes  -> 输入我们自己设定的名称，如“ptealipay”
+Info  -> URL Types  -> + -> URL Schemes  -> 输入我们自己设定的名称，如“myalipay”
